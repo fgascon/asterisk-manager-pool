@@ -1,0 +1,26 @@
+{
+  "name": "asterisk-manager-pool",
+  "version": "0.0.0",
+  "description": "Pooled AMI connections",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fgascon/asterisk-manager-pool.git"
+  },
+  "keywords": [
+    "AMI",
+    "asterisk",
+    "pool"
+  ],
+  "author": "fgascon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fgascon/asterisk-manager-pool/issues"
+  },
+  "homepage": "https://github.com/fgascon/asterisk-manager-pool",
+  "dependencies": {
+    "asterisk-manager": "^0.1.15",
+    "common-pool": "^0.2.0",
+    "q": "^1.2.0"
+  }
+}
