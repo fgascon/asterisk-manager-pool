@@ -1,6 +1,6 @@
 {
   "name": "asterisk-manager-pool",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Pooled AMI connections",
   "main": "index.js",
   "repository": {
